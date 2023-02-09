@@ -2,7 +2,7 @@ Hi 👋 My name is Bojan Dolić
 ============================
 
 * 🌍  I'm based in [Doboj | BiH](https://www.google.com/maps/place/Doboj+74000/@44.7348188,18.0462344,13z/data=!3m1!4b1!4m5!3m4!1s0x475e822e8c4ed5b9:0xfde3c70c31346401!8m2!3d44.7348727!4d18.0842548)
-* ✉️  You can contact me at [dolicbojan2@gmail.com](mailto:dolicbojan2@gmail.com)
+* ✉️  You can contact me at [dolicbojan2@gmail.com](mailto:dolicbojan2@gmail.com) | [bojandolic.work@gmail.com](mailto:bojandolic.work@gmail.com)
 * 🧠  I'm currently learning Flutter
 * ⚡  Mobile developer 
 
